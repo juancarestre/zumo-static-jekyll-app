@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "La voluntad lo es todo"
-date:   2019-26-01 08:37:38 +0000
+date:   2019-01-26 08:37:38 +0000
 categories: jekyll update
 ---
 <!-- This is just petoawesomex
